@@ -106,7 +106,7 @@
 }
 
 .maincontainer{
-    height: 280vh;
+    height: auto;
     width: auto;
     background: linear-gradient(180deg,rgba(11, 61, 227, 0.868) 0%, rgba(0, 0, 0, 1) 3%);
     background-size: cover;
