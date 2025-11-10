@@ -113,6 +113,8 @@
     position: relative;
     z-index: 2;
     top: 48rem;
+    left: 0;
+    right: 0;
     border-top-left-radius: 50% 3%;
     border-top-right-radius: 50% 3%;
     border-top: 4px solid var(---colour2);
